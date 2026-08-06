@@ -1,0 +1,7 @@
+interface:
+  display_name: "GitHub 方案侦察"
+  short_description: "Research reusable GitHub projects before coding"
+  default_prompt: "Use $githubskill to research reusable GitHub projects before any implementation."
+
+policy:
+  allow_implicit_invocation: true
