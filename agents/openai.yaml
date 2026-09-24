@@ -1,7 +1,7 @@
 interface:
-  display_name: "GitHub 方案侦察"
-  short_description: "Research reusable GitHub projects before coding"
-  default_prompt: "Use $githubskill to research reusable GitHub projects before any implementation."
+  display_name: "站在巨人的肩膀上"
+  short_description: "先找 GitHub 现成方案，核对源码与许可，再决定直接用、改造或自研"
+  default_prompt: "用 $standing-on-giants 查找与目标相似的 GitHub 项目或 Skills，核对证据，给出复用建议、具体借鉴清单与最小验证，并沿用本次已有授权。"
 
 policy:
   allow_implicit_invocation: true
