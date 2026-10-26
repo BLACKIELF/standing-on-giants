@@ -33,6 +33,12 @@ git clone https://github.com/BLACKIELF/standing-on-giants.git ~/.codex/skills/st
 用「站在巨人的肩膀上」Skill，帮我找能实现【具体目标】的 GitHub 方案。约束是【平台／预算／设备】。告诉我直接用、改造还是自己做，并指出可借鉴的文件和最小验证方法。
 ```
 
+也可以用更短的触发词：
+
+```text
+github一下，帮我找能实现【具体目标】的开源方案。
+```
+
 ## 文件与边界
 
 - [`SKILL.md`](SKILL.md)：主流程与决策标准。
